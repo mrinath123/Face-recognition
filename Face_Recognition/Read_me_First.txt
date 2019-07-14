@@ -5,4 +5,4 @@ you can add different haar-cascades to detect other parts and change the code ac
 
 REQUIREMENTS:-
 
-1)Open CV
+1)opencv-python==3.2.0.6
